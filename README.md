@@ -29,12 +29,6 @@
     Scripts/activate.bat
     ```
 
-- Install the dependencies
-
-    ```shell
-    pip install -r requirements.txt
-    ```
-
 - Run the program
 
     ```shell
