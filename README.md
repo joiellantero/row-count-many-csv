@@ -37,8 +37,6 @@
 
 - Run the program
 
-    > Format: `python3 name-roulette.py <fileName> <amount> <flags>`
-
     ```shell
-    python3 name-roulette.py names.csv 3 --cowsay
+    python count-csv.py
     ```
