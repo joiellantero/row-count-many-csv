@@ -5,7 +5,7 @@
 - Download or clone the repository
   
     ```shell
-    git clone https://github.com/joiellantero/name-roulette.git
+    git clone https://github.com/joiellantero/row-count-many-csv.git
     ```
 
 - Navigate to the directory of the project.
