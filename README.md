@@ -3,7 +3,7 @@
 > Prerequisite: Python 3 must be installed.
 
 - Download or clone the repository
-  
+
     ```shell
     git clone https://github.com/joiellantero/row-count-many-csv.git
     ```
@@ -32,5 +32,9 @@
 - Run the program
 
     ```shell
-    python count-csv.py
+    # command format
+    python count-csv.py <filepath>
+
+    # if the folder is in the same directory as count-csv.py...
+    python count-csv.py ./myFolder
     ```
